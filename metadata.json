@@ -1,0 +1,6 @@
+{
+  "name": "PriceLedger",
+  "description": "Automated product price tracking, tax-normalized market intelligence, and configurable web scraping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
